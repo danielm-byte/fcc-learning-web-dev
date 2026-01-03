@@ -11,7 +11,6 @@ from **freeCodeCamp**.
 - 📜 Certificate: [https://www.freecodecamp.org/certification/yourusername/responsive-web-design](https://www.freecodecamp.org/certification/fcc-4716cee2-197d-4f1d-bf4e-c88cfd8f1a11/responsive-web-design-v9)
 - <img width="1238" height="835" alt="image" src="https://github.com/user-attachments/assets/90346c9e-e52d-4e5c-be1d-26c19de7416a" />
 
-- 
 
 ## 🛠 Skills Learned
 
